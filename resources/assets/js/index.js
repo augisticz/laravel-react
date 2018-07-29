@@ -28,6 +28,6 @@ export default class Index extends Component {
     }
 }
 
-if (document.getElementById('example')) {
-    ReactDOM.render(<Index />, document.getElementById('example'));
+if (document.getElementById('app')) {
+    ReactDOM.render(<Index />, document.getElementById('app'));
 }
