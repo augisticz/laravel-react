@@ -4,7 +4,7 @@ Steps, how use this app
 ```shell
 php artisan preset react
 ```
-#### 2. Install node dependences and run app:
+### 2. Install node dependences and run app:
 ```shell
 npm install && npm run dev
 ```
